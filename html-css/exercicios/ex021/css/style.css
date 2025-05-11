@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(39, 39, 39);
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: orangered;
+}
+
+h1#tituloPrincipal{
+    color: orange;
+    text-align: center;
+    background-color: rgb(34, 34, 99);
+}
+
+h2{
+    color: yellow;
+}
+
+.blablabla1{
+    color: orangered;
+    background-color: rgb(63, 47, 35);
+}

@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif
+}
+
+div {
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+}
+
+div:hover{
+    color: whitesmoke;
+    background-color: blueviolet;
+}

@@ -1,0 +1,26 @@
+h1{
+    background-color: blanchedalmond;
+    height: 300px;
+    width: 300px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(165, 127, 255);
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: blueviolet;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    display: block;
+    border-style: groove;
+    border-color: brown;
+    border-width: 5px;
+    margin: auto;
+}

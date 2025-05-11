@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div > p{
+    display: none;
+}
+
+div:hover > P{
+    display: block;
+    color: white;
+    background-color: black;
+}
+
+div:hover{
+    display: inline-block;
+    color: black;
+    background-color: green;
+}
